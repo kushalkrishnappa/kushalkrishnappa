@@ -10,7 +10,7 @@ Hi! I am a software engineer with 2+ years of experience in Platform Engineering
 - Learning OS in depth. If you ask why, check this out: [Dominator](https://github.com/Cloud-Foundations/Dominator) and [DMTCP](https://github.com/dmtcp/dmtcp)
 - I've developed interest in GPU Architecture recently and exploring more on GPU Performance Optimization. If you are intereted in this topic I am open for discussion.
 
-## List of Projects I've been working on recently
+### List of Projects I've been working on recently
 
 - Kap Labs — [Auth](https://github.com/kap-theorem/auth)
 
