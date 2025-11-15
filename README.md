@@ -1,7 +1,7 @@
 ## Kushal Krishnappa
 Hi! I am a software engineer with 2+ years of experience in Platform Engineering at Pure Storage. Currently open for Spring/Summer 2026 Internships focused on backend systems, automation, internal tooling, and AI/cloud/on-prem infrastructure. 
 
-### Here are some things I can do:
+### Here are some things I am good at:
 - Design and work on projects solely with complete ownership and SDLC practices.
 - Collaborate with team for brainstorming solutions and project planning.
 - I love to write code and go crazy for solving engineering problems at scale.
