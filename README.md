@@ -1,16 +1,21 @@
-## Hi there 👋
+## List of Projects I've been working on recently
 
-<!--
-**kushalkrishnappa/kushalkrishnappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Kap Labs — Auth  
+  Link: https://github.com/kap-labs/auth  
+  Short description: Authentication service for Kap Labs (login, JWT/session handling, user management). Replace owner/repo if the actual path differs.
 
-Here are some ideas to get you started:
+- Kap Labs — Beacon  
+  Link: https://github.com/kap-labs/beacon  
+  Short description: Beacon service for Kap Labs (notifications / presence / event broadcasting).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- cs5010 — Calendar App  
+  Link: https://github.com/REPLACE_OWNER/cs5010-calendar-app  
+  Short description: Calendar application built for CS5010 coursework. Replace REPLACE_OWNER with the correct owner.
+
+- cs5800-dbms — Practicum 1  
+  Link: https://github.com/cs5800-dbms/practicum-1  
+  Short description: Practicum 1 for the CS5800 DBMS course (assignments, SQL examples, project work).
+
+- cs5800-dbms — Practicum 2  
+  Link: https://github.com/cs5800-dbms/practicum-2  
+  Short description: Practicum 2 for the CS5800 DBMS course (continued assignments and projects).
