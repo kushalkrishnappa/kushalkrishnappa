@@ -4,7 +4,7 @@ Hi! I am a software engineer with 2+ years of experience in Platform Engineering
 ### Here are some things I am good at:
 - Design and work on projects solely with complete ownership and SDLC practices.
 - Collaborate with team for brainstorming solutions and project planning.
-- I love to write code and go crazy for solving engineering problems at scale.
+- I love to write code and solving interesting problems at scale.
 
 ### Some things I am doing:
 - Learning OS in depth. If you ask why, check this out: [Dominator](https://github.com/Cloud-Foundations/Dominator) and [DMTCP](https://github.com/dmtcp/dmtcp)
