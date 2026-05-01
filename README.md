@@ -12,9 +12,9 @@ Hi! I am a software engineer with 2+ years of experience in Platform Engineering
 
 ### List of Projects I've been working on recently
 
-- Kap Labs — [Auth](https://github.com/kap-theorem/auth)
-
 - Kap Labs — [Beacon](https://github.com/kap-theorem/beacon)
+
+- Kap Labs — [Auth](https://github.com/kap-theorem/auth)
 
 - cs5010 — [Calendar App](https://github.com/kushalkrishnappa/cs5010-virtual-calendar)
 
